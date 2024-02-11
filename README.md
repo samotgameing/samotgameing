@@ -1,1 +1,1 @@
-- Hi, I’m @samot :)
+- Hi, I’m @samot
