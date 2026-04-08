@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here, you'll find my latest projects, contributions, and a showcase of my journey as a passionate programmer.
 
 ## 🚀 About Me
-I love solving problems, building innovative solutions, and learning something new every day. I enjoy coding, tinkering with electronics, and connecting with like-minded developers.
+I love solving problems, building innovative solutions, and learning something new every day. I enjoy coding and tinkering with electronics.
 
 - 🌱 Currently learning and growing in the world of software development
 - 💬 Ask me about C, C#, C++, or Python
